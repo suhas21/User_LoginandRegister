@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="login">Login</string>
+    <string name="alreadyaccount">Already a member? Login</string>
+    <string name="email">Email</string>
+    <string name="createaccount">Create Account</string>
+    <string name="name">Name</string>
+    <string name="account">No account yet? Create one</string>
+    <string name="password">Password</string>
+</resources>

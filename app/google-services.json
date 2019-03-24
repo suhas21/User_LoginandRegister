@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524775687416",
+    "firebase_url": "https://loginscreen-24ddc.firebaseio.com",
+    "project_id": "loginscreen-24ddc",
+    "storage_bucket": "loginscreen-24ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524775687416:android:060cb5dcc73030fb",
+        "android_client_info": {
+          "package_name": "com.example.suhas.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524775687416-ib1hkmst1mc7hq10nhus1nn69i87dcq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suhas.loginscreen",
+            "certificate_hash": "b9968fd06c0cc444c7534590714d6362a2e6c43e"
+          }
+        },
+        {
+          "client_id": "524775687416-orcp5batllkadan29h39bb2f7slgnnr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUEAPofoF1rgY8U0vpNAHKcyR9Bvl78k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524775687416-orcp5batllkadan29h39bb2f7slgnnr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
